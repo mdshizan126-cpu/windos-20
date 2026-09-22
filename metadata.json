@@ -1,0 +1,6 @@
+{
+  "name": "Windows 20 Security & Administrative Controls",
+  "description": "Windows 20 Update concept demo showcasing all active system security features, administrative access controls, dynamic lock screen, and kernel protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
